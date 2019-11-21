@@ -1,6 +1,6 @@
 # BTCCD
 
-BTCCD is a GUI-based software for the Brightness-gated Two Color Coincidence (BTCCD) analysis of single molecule data from a confocal microscope
+BTCCD is a GUI-based software for the Brightness-gated Two Color Coincidence Detection (BTCCD) analysis of single molecule data from a confocal microscope.
 
 #### Downloading and installing BTCCD software
 The BTCCD software requires Matlab license (2015b or newer).
