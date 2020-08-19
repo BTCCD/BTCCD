@@ -18,6 +18,9 @@ Columns represent
 
  #### Sample data for BTCCD analysis
  Sample data include single-molecule measurement of double-stranded double-labeled DNA of 48 base pairs, 5'-modified with Alexa488 and 3'-modified with Atto647N. This is a reference sample for BTCCD close to 100% coincidence presented in the publication Höfig H., et al. (2019) Brightness-Gated Two-Color Coincidence Detection Unravels Two Distinct Mechanisms in Bacterial Protein Translation Initiation (manuscript submitted for publication).
+ 
+ #### Expected run time for sample data
+ Run time of the sample data can take up to several minutes. Coincidence curve calculation time depends on the discretization step that can be changed in the software
 
 ## Further information
 For detailed description of the BTCCD method refer to the publication Höfig H., et al. (2019) Brightness-Gated Two-Color Coincidence Detection Unravels Two Distinct Mechanisms in Bacterial Protein Translation Initiation (manuscript submitted for publication).
